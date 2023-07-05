@@ -25,7 +25,7 @@ var summation = function (num) {
 ```
 
 ## Experience
-### No experience
+### No Experience
 
 ## Education
 ### Military Academy of the Republic of Belarus
