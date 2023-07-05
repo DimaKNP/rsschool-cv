@@ -1,1 +1,11 @@
-D
+body {
+    background-color: lightblue;
+  }
+  h1 {
+    color: red;
+    text-align: center;
+  }
+  p {
+    font-family: verdana;
+    font-size: 21px;
+  }
